@@ -5,6 +5,8 @@ public class compare {
 		int a=5,b=10;
 		System.out.println((a<b)?a+" ,"+b :b+" ,"+a);
 		
+		//Changes
+		
 	}
 
 }
